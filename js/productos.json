@@ -1,0 +1,182 @@
+[
+    {
+        "id": "Ciberpunk 2077",
+        "titulo": "Ciberpunk 2077",
+        "imagen": "./img/abrigos/01.webp",
+        "categoria": {
+            "nombre": "Xbox",
+            "id": "Xbox"
+        },
+        "precio": 799
+    },
+    {
+        "id": "CUPHEAD",
+        "titulo": "CUPHEAD",
+        "imagen": "./img/abrigos/02.webp",
+        "categoria": {
+            "nombre": "Xbox",
+            "id": "Xbox"
+        },
+        "precio": 450
+    },
+    {
+        "id": "Quantum Break",
+        "titulo": "Quantum Break",
+        "imagen": "./img/abrigos/03.webp",
+        "categoria": {
+            "nombre": "Xbox",
+            "id": "Xbox"
+        },
+        "precio": 399
+    },
+    {
+        "id": "GEARS OF WAR 4",
+        "titulo": "GEARS OF WAR 4",
+        "imagen": "./img/abrigos/04.webp",
+        "categoria": {
+            "nombre": "Xbox",
+            "id": "Xbox"
+        },
+        "precio": 350
+    },
+    {
+        "id": "Forza Horizon 5",
+        "titulo": "Forza Horizon 5",
+        "imagen": "./img/abrigos/05.webp",
+        "categoria": {
+            "nombre": "Xbox",
+            "id": "Xbox"
+        },
+        "precio": 1299
+    },
+    {
+        "id": "GOD OF WAR RAGNAROK",
+        "titulo": "GOD OF WAR RAGNAROK",
+        "imagen": "./img/camisetas/01.webp",
+        "categoria": {
+            "nombre": "Playstation",
+            "id": "Playstation"
+        },
+        "precio": 1499
+    },
+    {
+        "id": "Horizon forbidden west",
+        "titulo": "horizon forbidden west",
+        "imagen": "./img/camisetas/02.webp",
+        "categoria": {
+            "nombre": "Playstation",
+            "id": "Playstation"
+        },
+        "precio": 1399
+    },
+    {
+        "id": "LittleBIG Planet 4",
+        "titulo": "LittleBIG Planet 4",
+        "imagen": "./img/camisetas/03.webp",
+        "categoria": {
+            "nombre": "Playstation",
+            "id": "Playstation"
+        },
+        "precio": 200
+    },
+    {
+        "id": "Spiderman-2",
+        "titulo": "Spiderman-2",
+        "imagen": "./img/camisetas/04.png",
+        "categoria": {
+            "nombre": "Playstation",
+            "id": "Playstation"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "THE LAST OF US",
+        "titulo": "THE LAST OF US",
+        "imagen": "./img/camisetas/05.webp",
+        "categoria": {
+            "nombre": "Playstation",
+            "id": "Playstation"
+        },
+        "precio": 720
+    },
+    {
+        "id": "Grand theft auto V",
+        "titulo": "Grand theft auto V",
+        "imagen": "./img/camisetas/06.webp",
+        "categoria": {
+            "nombre": "Playstation",
+            "id": "Playstation"
+        },
+        "precio": 650
+    },
+    {
+        "id": "RATCHET & CLANK",
+        "titulo": "RATCHET & CLANK",
+        "imagen": "./img/camisetas/07.webp",
+        "categoria": {
+            "nombre": "Playstation",
+            "id": "Playstation"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "UNCHARTED",
+        "titulo": "UNCHARTED",
+        "imagen": "./img/camisetas/08.webp",
+        "categoria": {
+            "nombre": "Playstation",
+            "id": "Playstation"
+        },
+        "precio": 469
+    },
+    {
+        "id": "Playstation plus",
+        "titulo": "Playstation plus",
+        "imagen": "./img/pantalones/01.webp",
+        "categoria": {
+            "nombre": "Suscripciones",
+            "id": "Suscripciones"
+        },
+        "precio": 320
+    },
+    {
+        "id": "GAME PASS ",
+        "titulo": "GAME PASS",
+        "imagen": "./img/pantalones/02.webp",
+        "categoria": {
+            "nombre": "Suscripciones",
+            "id": "Suscripciones"
+        },
+        "precio": 245
+    },
+    {
+        "id": "EA play",
+        "titulo": "EA play",
+        "imagen": "./img/pantalones/03.webp",
+        "categoria": {
+            "nombre": "Suscripciones",
+            "id": "Suscripciones"
+        },
+        "precio": 150
+    },
+    {
+        "id": "switch ONLINE",
+        "titulo": "switch ONLINE",
+        "imagen": "./img/pantalones/04.webp",
+        "categoria": {
+            "nombre": "Suscripciones",
+            "id": "Suscripciones"
+        },
+        "precio": 300
+    },
+    {
+        "id": "UBISOFT PLUS",
+        "titulo": "UBISOFT PLUS",
+        "imagen": "./img/pantalones/05.webp",
+        "categoria": {
+            "nombre": "Suscripciones",
+            "id": "Suscripciones"
+        },
+        "precio": 299
+    }
+]
